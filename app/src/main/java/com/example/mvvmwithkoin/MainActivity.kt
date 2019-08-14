@@ -1,12 +1,9 @@
-package com.example.mvvm
+package com.example.mvvmwithkoin
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvvm.R
 
-/**
- * Created Lambui on 08 Auguest 2019.
- */
-//viewmodel + livedata + DataBinding.
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
